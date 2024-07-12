@@ -1,0 +1,4 @@
+---,Boool,Init,flooat,striing,texxt,vvecter,rrace,textureobject,actorClass
+NewRow,TRUE,50,83.06546,저런,"NSLOCTEXT(""[AC70513B0EC42BDB5232CB90876154BC]"", ""072E0C814F3D7A9D594A16B598CD1ED5"", ""asf"")","(X=1.000000,Y=5.000000,Z=6.000000)",Monster,/Script/Engine.Texture2D'/Game/02_Resource/MTRL/warlord-helmet.warlord-helmet',/Script/Engine.Blueprint'/Game/01_Blueprint/02_Actor/SM_Cube.SM_Cube'
+NewRow_0,FALSE,0,0,,,"(X=0.000000,Y=0.000000,Z=0.000000)",None,None,None
+NewRow_1,FALSE,0,0,,,"(X=0.000000,Y=0.000000,Z=0.000000)",None,None,None
